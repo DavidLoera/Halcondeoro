@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Halcon de oro</string>
+    <string-array name="opciones">
+        <item>Accesorios</item>
+        <item>Amplificadores</item>
+        <item>Antenas</item>
+        <item>Radio</item>
+    </string-array>
+</resources>
